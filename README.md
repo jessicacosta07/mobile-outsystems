@@ -1,4 +1,4 @@
-# Mobile Outsystems
+# Mobile OutSystems
 
 ## Formação OutSystems Fundamentals
 
